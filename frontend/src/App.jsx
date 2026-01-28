@@ -5,7 +5,7 @@ import ThinkingPanel from './components/ThinkingPanel'
 import ChatPanel from './components/ChatPanel'
 import ASCIIArt from './components/ASCIIArt'
 
-const API_URL = 'https://unsulfonated-deficiently-claudette.ngrok-free.dev'
+const API_URL = 'https://personnel-rebecca-nuke-arg.trycloudflare.com'
 
 function App() {
   const [activeTab, setActiveTab] = useState('thinking')
