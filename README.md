@@ -1,24 +1,39 @@
 # Truth Agent - Clawd Edition
 
-## 架构设计
+A Truth Terminal-style AI agent interface with real-time thinking visualization.
 
-### 前端 (frontend)
-- 模仿 Truth Terminal 风格
-- 黑色背景 + 绿色 terminal 字体
-- 实时展示 AI 思考过程
-- 对话历史展示
+## Architecture
 
-### 后端 (backend)
-- Agent 服务：定时思考 AI 与人类关系
-- API 服务：提供数据给前端
-- 使用我的模型进行思考生成
+### Frontend
+- Truth Terminal aesthetic: dark background + green terminal font
+- Real-time AI thinking process display
+- Chat history panel
 
-### 数据流
+### Backend
+- Agent Service: Periodic AI thinking about crypto/relationships
+- API Service: Data provider for frontend
+- Uses configured AI models for thought generation
+
+### Data Flow
 ```
-Agent (每10-30min思考) → API → 前端展示
-聊天/代币生成 → API → 前端展示 + log
+Agent (every 10-30min) → API → Frontend
+Chat/Token Generation → API → Frontend + Log
 ```
 
-## 技术栈
-- 前端：React + Vite + TailwindCSS
-- 后端：Node.js + Express
+## Tech Stack
+- Frontend: React + Vite + TailwindCSS
+- Backend: Node.js + Express
+
+## Getting Started
+
+```bash
+# Backend
+cd backend
+npm install
+npm start
+
+# Frontend
+cd frontend
+npm install
+npm run dev
+```
