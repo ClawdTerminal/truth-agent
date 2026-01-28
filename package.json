@@ -1,0 +1,14 @@
+{
+  "name": "truth-agent-clawd",
+  "version": "1.0.0",
+  "description": "AI Agent inspired by Truth Terminal - with Clawd personality",
+  "scripts": {
+    "dev": "concurrently \"npm run dev:frontend\" \"npm run dev:backend\"",
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev:backend": "cd backend && npm run dev",
+    "build": "cd frontend && npm run build"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
