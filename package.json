@@ -1,5 +1,5 @@
 {
-  "name": "truth-agent",
+  "name": "clawdterminal",
   "version": "1.0.0",
   "description": "AI Agent with Truth Terminal aesthetics + Clawd personality - Multi-platform messaging gateway with LLM agent capabilities",
   "type": "module",

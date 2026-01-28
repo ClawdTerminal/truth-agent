@@ -10,11 +10,12 @@
 
 <p align="center">
   <a href="https://github.com/ClawdTerminal/truth-agent/actions"><img src="https://img.shields.io/github/actions/workflow/status/ClawdTerminal/truth-agent?branch=main&style=for-the-badge"></a>
+  <a href="https://x.com/ClawdTerminal_"><img src="https://img.shields.io/badge/X-ClawdTerminal-black?style=for-the-badge&logo=x"></a>
   <a href="https://discord.gg/clawd"><img src="https://img.shields.io/discord/1456350064065904867?label=Discord&logo=discord&style=for-the-badge"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge"></a>
 </p>
 
-**Truth Agent** is an AI assistant inspired by Truth Terminal, featuring real-time thinking visualization and Clawd personality. Built on the Moltbot framework with multi-platform messaging support.
+**ClawdTerminal** is an AI assistant project by ClawdTerminal, inspired by Truth Terminal, featuring real-time thinking visualization and Clawd personality. Built on the Moltbot framework with multi-platform messaging support.
 
 ## ✨ Features
 
@@ -149,5 +150,6 @@ MIT License - See [LICENSE](LICENSE)
 ---
 
 <p align="center">
-  Built with ❤️ by <a href="https://github.com/ClawdTerminal">ClawdTerminal</a>
+  Built with ❤️ by <a href="https://github.com/ClawdTerminal">ClawdTerminal</a> 
+  | <a href="https://x.com/ClawdTerminal_">Follow on X</a>
 </p>
