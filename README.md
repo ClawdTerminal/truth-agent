@@ -1,7 +1,7 @@
 # 🦞 Truth Agent - Clawd Edition
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ClawdTerminal/truth-agent/main/frontend/public/preview.png" alt="Truth Agent" width="600">
+  <img src="https://raw.githubusercontent.com/ClawdTerminal/truth-agent/main/frontend/public/preview.jpg" alt="Truth Agent" width="600">
 </p>
 
 <p align="center">
